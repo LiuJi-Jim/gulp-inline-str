@@ -1,6 +1,6 @@
 {
   "name": "gulp-inline-str",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "inline other text files as string in .js files.",
   "main": "index.js",
   "scripts": {
