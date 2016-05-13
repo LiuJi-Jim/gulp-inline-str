@@ -1,0 +1,14 @@
+{
+  "name": "gulp-inline-str",
+  "version": "0.0.1",
+  "description": "inline other text files as string in .js files.",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "LiuJi-Jim",
+  "license": "ISC",
+  "dependencies": {
+    "gulp-util": "^3.0.7",
+    "through2": "^2.0.1"
+  }
+}
