@@ -6,6 +6,10 @@
   "scripts": {
   },
   "author": "LiuJi-Jim",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/LiuJi-Jim/gulp-inline-str"
+  },
   "license": "ISC",
   "dependencies": {
     "gulp-util": "^3.0.7",
